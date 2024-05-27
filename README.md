@@ -1,3 +1,3 @@
 # demo
 FIRST REPO IN GITHUB
-Author Aditya Sharma
+Author-Aditya Sharma
